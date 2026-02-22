@@ -1,7 +1,7 @@
-# Exploratory Data Analysis (EDA) Project
+# 📊 Exploratory Data Analysis (EDA) Project
 
 ## 📌 Project Overview
-This project performs Exploratory Data Analysis (EDA) to identify patterns, trends, and insights from the dataset.
+This project performs Exploratory Data Analysis (EDA) on sales data to identify trends, missing values, and revenue patterns.
 
 ## 📊 Objectives
 - Data Cleaning
@@ -25,3 +25,8 @@ This project performs Exploratory Data Analysis (EDA) to identify patterns, tren
 ## 📁 Project Structure
 - EDA_Project.ipynb
 - README.md
+ 
+  ## 📈 Future Improvements
+- Add advanced visualizations
+- Perform statistical analysis
+- Build a dashboard version
