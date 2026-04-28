@@ -2,14 +2,14 @@
 
 ## 📌 Project Overview
 
-Performed Exploratory Data Analysis (EDA) on sales data using Python to clean datasets, handle missing values, and uncover trends and revenue patterns for data-driven insights.
+Performed Exploratory Data Analysis (EDA) on e-commerce sales data using Python. The dataset was cleaned and processed to identify sales trends, customer behavior, and country-wise revenue patterns. Key insights were visualized using charts to support data-driven decision-making.
 
 ## 🎯 Objectives
 
-* Data Cleaning and Preprocessing
-* Handling Missing Values
-* Data Visualization
-* Extracting Business Insights
+* Clean and preprocess raw sales data
+* Handle missing values effectively
+* Perform trend and pattern analysis
+* Generate business insights through visualization
 
 ## 🛠️ Tools & Technologies
 
@@ -27,15 +27,30 @@ Performed Exploratory Data Analysis (EDA) on sales data using Python to clean da
 * Performed trend analysis on sales data
 * Visualized patterns using charts and graphs
 
----
+## 📊 Key Visualizations
+
+### Top Customers by Orders
+![Top Customers](1_top_customers.png)
+
+### Orders by Day
+![Orders by Day](2_orders_by_day.png)
+
+### Orders by Month
+![Orders by Month](3_orders_by_month.png)
+
+### Orders by Country
+![Orders by Country](4_orders_by_country.png)
+
+### Revenue by Country
+![Revenue by Country](5_revenue_by_country.png)
 
 ## 📈 Results & Insights
 
-* Analyzed **5K+ records** to identify sales trends and patterns
-* Observed **higher sales growth in Q4**, indicating seasonal demand
-* Identified missing values concentrated in specific columns (e.g., Age)
-* Detected **Category A as top revenue contributor**
-* Improved understanding of data patterns through visualizations
+* Top customers contribute significantly to total orders, indicating customer concentration.
+* Sales peak on **Thursdays**, showing higher mid-week activity.
+* Strong growth observed in **October–November**, indicating seasonal demand.
+* Majority of orders come from **European countries** like Germany, France, and EIRE.
+* **Netherlands generates the highest revenue**, despite fewer orders, indicating high-value transactions.
 
 ## 📁 Project Structure
 
