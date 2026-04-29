@@ -32,14 +32,8 @@ Performed Exploratory Data Analysis (EDA) on e-commerce sales data using Python.
 ### Top Customers by Orders
 ![Top Customers](1_top_customers.png)
 
-### Orders by Day
-![Orders by Day](2_orders_by_day.png)
-
 ### Orders by Month
 ![Orders by Month](3_orders_by_month.png)
-
-### Orders by Country
-![Orders by Country](4_orders_by_country.png)
 
 ### Revenue by Country
 ![Revenue by Country](5_revenue_by_country.png)
