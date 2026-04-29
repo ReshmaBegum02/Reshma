@@ -63,7 +63,7 @@ Performed Exploratory Data Analysis (EDA) on e-commerce sales data using Python.
 * Perform statistical analysis
 * Build an interactive dashboard (Power BI/Tableau)
 
-## 👩‍💻 Author
+## 👩‍💻 Created By
 
 **Dudekula Reshma**
 
